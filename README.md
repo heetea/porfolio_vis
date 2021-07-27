@@ -12,7 +12,7 @@ main.py 파일을 수정하여 실행합니다.
 
 전략 모델 계산후에 수익률을 계산하고 그래프를 그리는 코드
 
-아래 코드를 통해  Yield Class를 불러온다.
+아래 코드를 통해  cal_return Class를 불러온다.
 
 > from cal_return import cal_return
 
