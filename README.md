@@ -14,7 +14,7 @@ main.py 파일을 수정하여 실행합니다.
 
 아래 코드를 통해  Yield Class를 불러온다.
 
-> from cal_yield import Yield
+> from cal_return import cal_return
 
 ## 일별 일반 수익률
 
@@ -41,7 +41,7 @@ t-1 시점에 가치가 Pt-1인 어떤 자산에 투자를 한 뒤, t 시점에 
 코드
 
 >#비중처리된 단일수익률  
->calculate_yield.weighted_day_yield()
+>cal_return.weighted_day_yield()
 
 ## 누적 단리 수익률
 
